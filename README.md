@@ -1,6 +1,6 @@
 # PythonProjects-The_Intern_Academy
 
-## Contributors: Sayantan Bhattacharyya, Souradeep Atar, Sayantan Sarkar
+## Contributors: Pratishtha Singh, Smruti Singh, Rohan Vishwakarma
 
 ### Problem Statement: Whatsapp Auto wisher
 
